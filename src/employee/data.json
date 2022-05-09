@@ -1,0 +1,65 @@
+{
+    "user": {
+      "id": "2",
+      "name": "HArish",
+      "notes": "NoBuddy"
+    },
+    "employees": [
+      {
+        "id": 1,
+        "Ename": "piyush",
+        "city": "Noida",
+        "phone": "932330000",
+        "Salary": 500000
+      },
+      {
+        "id": 2,
+        "Ename": "piyush",
+        "city": "Noida",
+        "phone": "932330000",
+        "Salary": 500000
+      },
+      {
+        "id": 3,
+        "Ename": "piyush",
+        "city": "Noida",
+        "phone": "932330000",
+        "Salary": 500000
+      },
+      {
+        "id": 4,
+        "Ename": "pridsfsyam",
+        "city": "Mumbwerwai",
+        "phone": "93430000",
+        "Salary": 500000
+      },
+      {
+        "id": 6,
+        "Ename": "pridsfsyam",
+        "city": "Mumbai",
+        "phone": "93430000",
+        "Salary": 500000
+      },
+      {
+        "Ename": "god",
+        "city": "Delhi",
+        "phone": "93191309010",
+        "Salary": "null",
+        "id": 7
+      },
+      {
+        "Ename": "tiv",
+        "city": "Delhi",
+        "phone": "93191309010",
+        "Salary": "null",
+        "id": 8
+      },
+      {
+        "id": 9,
+        "Ename": "ram",
+        "city": "up",
+        "phone": "2131231231",
+        "Salary": "123123123"
+      }
+    ]
+  }
